@@ -1,11 +1,9 @@
 {
-    "Enable": false,
-    "Locale": ["Russian"],
-    "Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-        "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-        "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Enable": true,
+    "Locale": ["Spanish"],
+    "Times": ["Buenos_Aires", "Argentina"],
     "Links":
     [
-      { "Lang":"Russian", "Link": [""]}
+      { "Lang":"Spanish", "Links": ["https://lkxw.cc/ed3d3b"]}
     ]
 }
