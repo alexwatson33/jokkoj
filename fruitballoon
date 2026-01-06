@@ -1,11 +1,9 @@
 {
-"Enable": false,
-"Locales": ["Russian"],
-"Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+"Enable": true,
+"Locales": ["Spanish"],
+"Times": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
 "Links":
 [
-  { "Lang":"Russian", "Link": [""]}
+  { "Lang":"Spanish", "Link": ["https://lkpf.pro/24c1ae"]}
 ]
 }
